@@ -1,0 +1,3 @@
+D:\Visual Studio\OOP\lab5\Debug\Watchliste.htm
+D:\Visual Studio\OOP\lab5\Debug\lab5.exe
+D:\Visual Studio\OOP\lab5\Debug\lab5.pdb
